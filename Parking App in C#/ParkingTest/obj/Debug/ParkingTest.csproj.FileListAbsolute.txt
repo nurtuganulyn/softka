@@ -1,0 +1,13 @@
+D:\Tetiana Markova\homepage\ParkingTest\ParkingTest\bin\Debug\ParkingTest.exe.config
+D:\Tetiana Markova\homepage\ParkingTest\ParkingTest\bin\Debug\ParkingTest.exe
+D:\Tetiana Markova\homepage\ParkingTest\ParkingTest\bin\Debug\ParkingTest.pdb
+D:\Tetiana Markova\homepage\ParkingTest\ParkingTest\obj\Debug\ParkingTest.csprojResolveAssemblyReference.cache
+D:\Tetiana Markova\homepage\ParkingTest\ParkingTest\obj\Debug\ParkingTest.exe
+D:\Tetiana Markova\homepage\ParkingTest\ParkingTest\obj\Debug\ParkingTest.pdb
+C:\Users\nurtu\Desktop\parking-develop\ParkingTest\ParkingTest\bin\Debug\ParkingTest.exe.config
+C:\Users\nurtu\Desktop\parking-develop\ParkingTest\ParkingTest\bin\Debug\ParkingTest.exe
+C:\Users\nurtu\Desktop\parking-develop\ParkingTest\ParkingTest\bin\Debug\ParkingTest.pdb
+C:\Users\nurtu\Desktop\parking-develop\ParkingTest\ParkingTest\obj\Debug\ParkingTest.csprojAssemblyReference.cache
+C:\Users\nurtu\Desktop\parking-develop\ParkingTest\ParkingTest\obj\Debug\ParkingTest.csproj.CoreCompileInputs.cache
+C:\Users\nurtu\Desktop\parking-develop\ParkingTest\ParkingTest\obj\Debug\ParkingTest.exe
+C:\Users\nurtu\Desktop\parking-develop\ParkingTest\ParkingTest\obj\Debug\ParkingTest.pdb
